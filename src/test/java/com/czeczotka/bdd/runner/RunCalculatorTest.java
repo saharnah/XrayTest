@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         format = { "pretty", "json:target/cucumber.json" },
         glue = "com.czeczotka.bdd.steps",
-        features = "classpath:cucumber/1_AUTO-87.feature"
+        features = "classpath:DemoStory.feature"
 )
 public class RunCalculatorTest {
 }
