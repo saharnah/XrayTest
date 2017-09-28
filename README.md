@@ -1,6 +1,6 @@
 cucumber-jvm-maven
 ==================
-
+Test
 Cucumber JVM with Maven application.
 
 See my blog for details:
